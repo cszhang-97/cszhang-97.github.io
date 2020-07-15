@@ -1,6 +1,6 @@
 ## Welcome to Chengshuo Zhang's Personal Page
 
-I am current a Master student majoring in Mathematics and Economics at University of Michigan-Ann Arbor.
+I am current a graduate student majoring in Mathematics and Economics at University of Michigan-Ann Arbor.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
